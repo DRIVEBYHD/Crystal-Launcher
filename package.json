@@ -1,7 +1,7 @@
 {
     "name": "Crystal-Launcher",
     "preductname": "Crystal Launcher",
-    "version": "2.0.7",
+    "version": "1.0.0",
     "description": "Launcher Mincraft pour le serveur Crystal",
     "main": "src/app.js",
     "author": {
